@@ -1,9 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://ciu1wlq276u36"]
+[gd_scene load_steps=2 format=3 uid="uid://ciu1wlq276u36"]
 
 [ext_resource type="Texture2D" uid="uid://cmc8khaa65tfn" path="res://icon.svg" id="1_tyjn0"]
-[ext_resource type="Script" path="res://sprite_2d.gd" id="2_lyekh"]
 
 [node name="Sprite2D" type="Sprite2D"]
+modulate = Color(0.825774, 0.282341, 0.224471, 1)
 position = Vector2(529, 283)
 texture = ExtResource("1_tyjn0")
-script = ExtResource("2_lyekh")

@@ -1,19 +1,11 @@
-<<<<<<< HEAD
 [gd_scene load_steps=8 format=3 uid="uid://bqmh4efcibpgg"]
-=======
-[gd_scene load_steps=6 format=3 uid="uid://bpitfau1rpcym"]
->>>>>>> fb1c2367699f70fced7325ca46cfb977eaf08c7e
 
 [ext_resource type="Script" path="res://main.gd" id="1_mtqe8"]
 [ext_resource type="PackedScene" uid="uid://cmllex2javqge" path="res://mob.tscn" id="2_lhw3e"]
 [ext_resource type="PackedScene" uid="uid://jf4qk2hphfvn" path="res://player.tscn" id="3_ja604"]
-<<<<<<< HEAD
 [ext_resource type="PackedScene" uid="uid://cv2f6527ajhc6" path="res://hud.tscn" id="4_4bqp0"]
 [ext_resource type="AudioStream" uid="uid://dhxc7ekmdxd8t" path="res://[SPOTDOWNLOADER.COM] A Work of Art.mp3" id="5_4tije"]
 [ext_resource type="AudioStream" uid="uid://dg0j1wjraxf5y" path="res://LeBron James says aint no party like a Diddy party (mp3cut.net).mp3" id="5_ngark"]
-=======
-[ext_resource type="PackedScene" uid="uid://c60fh6ek856wr" path="res://hud.tscn" id="4_4bqp0"]
->>>>>>> fb1c2367699f70fced7325ca46cfb977eaf08c7e
 
 [sub_resource type="Curve2D" id="Curve2D_es66d"]
 _data = {

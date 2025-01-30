@@ -9,7 +9,7 @@ func show_message(text):
 
 func show_game_over():
 	show_message("Diddy")
-	await $messageTimer.timeout
+	await $MessageTimer.timeout
 	
 	$Message.text = "Dodge the children (impossible for Youtubers)"
 	$Message.show()

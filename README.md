@@ -3,4 +3,4 @@ godot ahh game stuff
 
 sut min fede diller 
 
-[Game link](SxLdumbahhgame/DodgeTheCreeps/Builds/Web/index.html)
+[Game link](DodgeTheCreeps/Builds/Web/index.html)
